@@ -18,3 +18,13 @@ for trout.
 * Steak Dinner
 
 ![About Myself](MyStats.md)
+
+---
+
+Below are some sports that I played growing up. These are all sports that I recomend someone tries and how many hours a week I practiced them in high school.
+| Sport | Why I recomend it | Avg Hrs Practiced |
+| --- | --- | --- |
+| Football | promotes teamwork and creates a family of players | 10-15 |
+| Basketball | can be played all year round | 6-8 |
+| Baseball | teaches hand eye coordination very fundamental heavy | 8-10 |
+| Track and Field | promotes cardiovascular health and will help with most other sports | 4-6 |
