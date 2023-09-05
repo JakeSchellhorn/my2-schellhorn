@@ -31,5 +31,5 @@ Below are some sports that I played growing up. These are all sports that I reco
 
 ---
 
-> "Learn from yesterday, live for today, hope for tomorrow. The important thing is to not stop questioning" -  *Albert Eintein*
+> "Learn from yesterday, live for today, hope for tomorrow. The important thing is to not stop questioning" -  *Albert Eintein* <br>
 > "No great discovery was ever made without a bold guess" - *Isaac Newton*
