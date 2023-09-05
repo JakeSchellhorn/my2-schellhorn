@@ -11,3 +11,8 @@ for trout.
 1. Fly Fish for Trout
 2. Go for a hike
 3. Kayak down the Niangua River
+
+### 3 dishes to get at Bennett Springs
+* Grilled Trout
+* Fried Catfish Dinner
+* Steak Dinner
