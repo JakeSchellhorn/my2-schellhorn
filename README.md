@@ -16,3 +16,5 @@ for trout.
 * Grilled Trout
 * Fried Catfish Dinner
 * Steak Dinner
+
+![About Myself](MyStats.md)
