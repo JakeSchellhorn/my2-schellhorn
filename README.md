@@ -33,3 +33,36 @@ Below are some sports that I played growing up. These are all sports that I reco
 
 > "Learn from yesterday, live for today, hope for tomorrow. The important thing is to not stop questioning" -  *Albert Eintein* <br>
 > "No great discovery was ever made without a bold guess" - *Isaac Newton*
+
+---
+
+> <https://stackoverflow.com/questions/52732453/dynamic-vertical-stripes-in-div-using-css-and-or-sass>
+~~~ 
+/// Stripe builder
+/// @author Kitty Giraudel
+/// @param {Direction} $direction - Gradient direction
+/// @param {List} $colors - List of colors
+/// @output `background-image` if several colors, `background-color` if only one
+@mixin stripes($direction, $colors) {
+  $length: length($colors);
+  
+  @if $length > 1 {
+    $stripes: ();
+    
+    @for $i from 1 through $length {
+      $stripe: (100% / $length) * ($i - 1);
+      
+      @if $i > 1 {
+        $stripes: append($stripes, nth($colors, $i - 1) $stripe, comma);
+      }
+      
+      $stripes: append($stripes, nth($colors, $i) $stripe, comma);
+    }
+    
+    background-image: linear-gradient($direction, $stripes);
+  } @else if $length == 1 {
+    background-color: $colors;
+  }
+}
+~~~
+<https://css-tricks.com/snippets/sass/striped-gradient-mixin/>
