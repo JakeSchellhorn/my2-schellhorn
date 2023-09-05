@@ -28,3 +28,8 @@ Below are some sports that I played growing up. These are all sports that I reco
 | Basketball | can be played all year round | 6-8 |
 | Baseball | teaches hand eye coordination very fundamental heavy | 8-10 |
 | Track and Field | promotes cardiovascular health and will help with most other sports | 4-6 |
+
+---
+
+> "Learn from yesterday, live for today, hope for tomorrow. The important thing is to not stop questioning" -  *Albert Eintein*
+> "No great discovery was ever made without a bold guess" - *Isaac Newton*
